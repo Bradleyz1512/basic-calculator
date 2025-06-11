@@ -5,4 +5,4 @@
 - Performs addition, subtraction, multiplication or division.
 - Gives an error message if an invalid operator symbol was given.
 
-#### I made this calculator as a small first project to doccument my learning and practice working with Python.
+- I made this calculator as a small first project to doccument my learning and practice working with Python.
